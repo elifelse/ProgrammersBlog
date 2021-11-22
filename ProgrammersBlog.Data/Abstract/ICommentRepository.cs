@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProgrammersBlog.Data.Abstract
 {
-    public interface ICommentRepository : IEntityRepository<Comment>
+    public interface ICommentRepository : EfEntityRepository<Comment>
     {
     }
 }

@@ -8,7 +8,8 @@ using System.Threading.Tasks;
 
 namespace ProgrammersBlog.Data.Abstract
 {
-    public interface IArticleRepository : IEntityRepository<Article>
+    public interface IArticleRepository : EfEntityRepository<Article>
     {
+
     }
 }

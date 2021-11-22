@@ -5,12 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ProgrammersBlog.Shared.Data.Concrete.EntityFramework
 {
-    public class EfEntityRepositoryBase<TEntity> : IEntityRepository<TEntity>
+    public class EfEntityRepositoryBase<TEntity> : EfEntityRepository<TEntity>
     where TEntity : class, IEntity, new()
     {
         private readonly DbContext _context;

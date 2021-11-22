@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProgrammersBlog.Shared.Data.Abstract
 {
-    public interface IEntityRepository<T> where T:class,IEntity,new()
+    public interface EfEntityRepository<T> where T:class,IEntity,new()
     {
         Task<T> GetAsync(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includeProperties); // var kullanici = repository.GetAsync(k=>k.Id == 15);
 
