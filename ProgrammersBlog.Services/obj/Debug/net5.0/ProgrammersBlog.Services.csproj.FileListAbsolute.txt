@@ -10,3 +10,10 @@ C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\ne
 C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.dll
 C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ref\ProgrammersBlog.Services.dll
 C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.pdb
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Data.dll
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Entities.dll
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Shared.dll
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Data.pdb
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Entities.pdb
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\bin\Debug\net5.0\ProgrammersBlog.Shared.pdb
+C:\Users\asus\source\repos\ProgrammersBlog\ProgrammersBlog.Services\obj\Debug\net5.0\ProgrammersBlog.Services.csproj.CopyComplete
