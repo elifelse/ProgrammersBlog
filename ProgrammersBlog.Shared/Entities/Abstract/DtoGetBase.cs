@@ -6,5 +6,6 @@ namespace ProgrammersBlog.Shared.Entities.Abstract
     {
         public virtual ResultStatus ResultStatus { get; set; }
 
+        public virtual string Message { get; set; }
     }
 }
